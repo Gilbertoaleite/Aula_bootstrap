@@ -1,0 +1,45 @@
+body{
+    font: 20px arial, sams-serif;
+}
+
+.navbar{
+    background-color: #F7DC6F;
+}
+
+
+.margin{
+   
+    padding-bottom: 50px; 
+    padding-top: 10px ;
+
+}
+
+.quemsomos{
+    background-color: #F5B041;
+    color: brown;
+}
+.parceiros{
+    background-color: #fff;
+    color: blue;
+}
+.servicos{
+    background-color:#F5B041;
+    color: white;
+}
+
+.rodape{
+    
+    background-color: black
+}
+
+.rodape:hover{
+ color:red;
+
+}  
+
+
+.letras:hover{
+    color: black;
+    
+}
+
